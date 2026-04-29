@@ -17,3 +17,5 @@ This repository is a **minimal demonstration** for my MiMo token application.
 
 ## Note
 This is a simplified demo. The actual system runs with real LLM backends.
+## 运行输出示例
+![demo output](demo_output.png)
